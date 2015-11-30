@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "active_merchant/payu_in/version"
 
 Gem::Specification.new do |s|
-  s.name        = "active_merchant_payumoney_com"
+  s.name        = "active_merchant_payumoney_in"
   s.version     = ActiveMerchant::Billing::Integrations::PayuIn::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ram Singla"]
