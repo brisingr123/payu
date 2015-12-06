@@ -11,7 +11,7 @@ module ActiveMerchant
 
           MAJOR     = 0
           MINOR     = 0
-          TINY      = 1
+          TINY      = 2
           SIGNATURE = [MAJOR, MINOR, TINY]
           STRING    = SIGNATURE.join '.'
 
