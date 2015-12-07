@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    active_merchant_payumoney_in (0.0.1)
+    active_merchant_payumoney_in (0.0.3)
       activemerchant (~> 1.8)
 
 GEM
